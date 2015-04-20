@@ -1,6 +1,6 @@
 # uv-exposure-box
 
-This is a Kicad project with the schematic and pcb design of a UV exposure box. Two of these boards have been used to make it. 
+This is a Kicad project with the schematic and pcb design of an UV exposure box. Two of these boards have been used to make it. 
 
 Two pdf's are available: 
 - uv-exposure-B_Cu.pdf.  PCB layout ready to print. 
